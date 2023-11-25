@@ -1,2 +1,4 @@
 # RiverCrabs.github.io
-个人使用的导航页
+个人用于导航的静态页
+
+基于WebStackPage.github.io-master
