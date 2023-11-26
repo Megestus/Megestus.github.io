@@ -795,6 +795,7 @@ body {
     table-layout: auto
 }
 
+/* 页面容器 */
 .page-container .main-content {
     display: table-cell;
     position: relative;
@@ -807,7 +808,8 @@ body {
     -webkit-transition: opacity 100ms ease-in-out;
     -moz-transition: opacity 100ms ease-in-out;
     -o-transition: opacity 100ms ease-in-out;
-    transition: opacity 100ms ease-in-out
+    transition: opacity 100ms ease-in-out;
+    transition: all 0.25s ease-in;
 }
 
 .page-container .main-content.is-loading {
