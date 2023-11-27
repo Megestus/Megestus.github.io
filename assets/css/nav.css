@@ -1,4 +1,15 @@
+.user-info-navbar{
 
+
+}
+
+.navbar{
+
+}
+.user-info-menu{
+
+
+}
 
 
 .box2 {
@@ -13,6 +24,7 @@
     -moz-transition: all 0.3s ease;
     -o-transition: all 0.3s ease;
     transition: all 0.3s ease;
+    
 }
 
 .box2:hover {

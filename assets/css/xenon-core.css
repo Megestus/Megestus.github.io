@@ -762,7 +762,7 @@ body {
 }
 
 .boxed-container {
-    background: #f9f9f9
+    background: #5e5e5e
 }
 
 .boxed-container #chat .chat-inner {
@@ -776,6 +776,8 @@ body {
     vertical-align: top;
     border-collapse: collapse;
     border-spacing: 0;
+    background-color: rgb(255, 255, 255);
+    /* 定义背景颜色 */
     table-layout: fixed
 }
 
@@ -810,6 +812,7 @@ body {
     -o-transition: opacity 100ms ease-in-out;
     transition: opacity 100ms ease-in-out;
     transition: all 0.25s ease-in;
+
 }
 
 .page-container .main-content.is-loading {
@@ -1318,7 +1321,7 @@ body {
 .navbar.horizontal-menu {
     position: relative;
     height: 85px;
-    background: #fff;
+    background: #ffffff;
     margin: 0;
     padding: 0;
     z-index: 101;
@@ -6162,6 +6165,7 @@ label.cbr-inline+.cbr-inline {
 
 .label {
     position: relative
+    
 }
 
 .label.pull-right {
@@ -6194,7 +6198,7 @@ label.cbr-inline+.cbr-inline {
 }
 
 .label.label-info {
-    background-color: #40bbea;
+    background-color:#40bbea;
     color: #fff
 }
 
