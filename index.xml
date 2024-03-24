@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>p5096启始页</title>
+    <link>https://megestus.github.io/WebStack/</link>
+    <description>Recent content on p5096启始页</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <atom:link href="https://megestus.github.io/WebStack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于网站</title>
+      <link>https://megestus.github.io/WebStack/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://megestus.github.io/WebStack/about/</guid>
+      <description>前言： 欢迎大家来到P5导航！站点主要用途在于日常美术工作的导航使用。 日志： 由WebStack原版静态导航-升级到Hugo-WebStack主</description>
+    </item>
+  </channel>
+</rss>
