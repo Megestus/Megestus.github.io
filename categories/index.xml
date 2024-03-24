@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on p5096启始页</title>
-    <link>https://megestus.github.io/WebStack/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on p5096启始页</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <atom:link href="https://megestus.github.io/WebStack/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
