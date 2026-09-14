@@ -1,0 +1,14 @@
+/* styles.css */
+@font-face {
+    font-family: 'Fusion Pixel';
+    src: url('./fonts/fusion-pixel-12px-proportional-zh_hans.ttf');
+}
+
+/*将 Fusion Pixel 字体设置为默认字体 */
+body {
+    font-family: 'Fusion Pixel', sans-serif;
+
+}
+
+
+
